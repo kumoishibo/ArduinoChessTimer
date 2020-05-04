@@ -14,7 +14,8 @@ Menu system:
     - MuteAudio
     - Dim LCD
     - Brighten LCD
-*Preset Game modes*
+    
+Preset Game modes
   - 1+0 Bullet
   - 2+1 Bullet
   - 3+0 Blitz
@@ -24,7 +25,7 @@ Menu system:
   - 10+0 Rapid
   - 15+15 Classical
   
-  -Apache 2.0 License
+  Apache 2.0 License
   
   Video of Chess clock working: https://youtu.be/xYqasjMnr0w
   
